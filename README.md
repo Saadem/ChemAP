@@ -1,5 +1,4 @@
-# ChemAP 
-*(Chemical structure-based Drug Approval Prediction)*
+# ChemAP (Chemical structure-based Drug Approval Prediction)
 =============
 
 ## Aperçu général 
