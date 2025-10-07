@@ -9,11 +9,11 @@ Grâce à la distillation des connaissances, ChemAP associe la richesse des repr
 
 ### Vue d’ensemble du cadre ChemAP 
 
-![model1](img/pipelin.pdf)
+![model1](img/pipelin.jpg)
 
-### Architecture du modèle
+<!-- ### Architecture du modèle
 
-![model2](img/model_architecture.png)
+![model2](img/model_architecture.png) -->
 
 ### Installation et configuration
 -------------
