@@ -37,12 +37,14 @@ Tout d’abord, clonez le dépôt et accedez au répertoire du projet.
 
 L’entraînement et l’évaluation de ChemAP ont été testés avec les versions suivantes :  
 
-- `python` = 3.9.12  
-- `pytorch` = 2.7.1  
-- `rdkit` = 2022.09.5  
-- `numpy` = 1.26.4  
-- `pandas` = 2.3.1  
-- `scipy` = 1.13.1  
+![Python](https://img.shields.io/badge/Python-3.9.12-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-orange)
+![RDKit](https://img.shields.io/badge/RDKit-2022.09.5-green)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-lightblue)
+![Pandas](https://img.shields.io/badge/Pandas-2.3.1-yellowgreen)
+![SciPy](https://img.shields.io/badge/SciPy-1.13.1-teal)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## Exemples d’utilisation  
 -------------
