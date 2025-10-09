@@ -1,4 +1,11 @@
 # ChemAP (Chemical structure-based Drug Approval Prediction)
+
+![Python](https://img.shields.io/badge/Python-3.9.12-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-orange)
+![RDKit](https://img.shields.io/badge/RDKit-2022.09.5-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 =============
 
 ## Aperçu général 
