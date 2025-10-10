@@ -42,8 +42,8 @@ L’entraînement et l’évaluation de ChemAP ont été testés avec les versio
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-lightblue)
 ![Pandas](https://img.shields.io/badge/Pandas-2.3.1-yellowgreen)
 ![SciPy](https://img.shields.io/badge/SciPy-1.13.1-teal)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Status](https://img.shields.io/badge/Status-Active-success)
+<!---![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)--->
 
 ## Exemples d’utilisation  
 -------------
@@ -117,4 +117,4 @@ Pour prédire l’approbation d’une liste personnalisée de molécules :
 
 ## Référence  
 
-Les codes et scripts présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles sur le dépôt GitHub : [https://github.com/ChangyunCho/ChemAP](https://github.com/ChangyunCho/ChemAP)    
+Les codes et scripts présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
