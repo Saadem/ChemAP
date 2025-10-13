@@ -22,7 +22,6 @@ Grâce à la distillation des connaissances, ChemAP associe la richesse des repr
 ![model2](img/model_architecture.png) -->
 
 ## Installation et configuration
--------------
 
 ### Clonage du dépôt  
 
