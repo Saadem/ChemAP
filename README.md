@@ -22,7 +22,7 @@ Grâce à la distillation des connaissances, ChemAP associe la richesse des repr
 
 ![model2](img/model_architecture.png) -->
 
-### Installation et configuration
+## Installation et configuration
 -------------
 
 ### Clonage du dépôt  
@@ -45,6 +45,27 @@ L’entraînement et l’évaluation de ChemAP ont été testés avec les versio
 ![SciPy](https://img.shields.io/badge/SciPy-1.13.1-teal)  
 <!---![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)--->
+
+## Arborescence et description des repertoires et fichiers
+L’arborescence ci-dessous présente la structure générale du projet **ChemAP**, incluant les principaux répertoires et scripts :
+
+ChemAP/
+│-- dataset/                                # Jeux de données bruts et prétraités
+│-- img/                                    # Images et schémas du cadre ChemAP
+│-- model/                                  # Modèles entraînés (Teacher, Student, ChemBERT)
+│-- src/                                    # Modules Python (prétraitement, modèles, fonctions de perte, etc.)
+│   │-- Dataprocessing.py
+│   │-- loss_function.py
+│   │-- models.py
+│   │-- utils.py
+│-- ChemAP.py                                # Script principal d’orchestration
+│-- data_preprocessing.py                    # Prétraitement des données
+│-- FP_predictor_train.py                    # Entraînement du prédicteur ECFP4
+│-- SMILES_predictor_train.py                # Entraînement du prédicteur SMILES
+│-- Teacher_train.py                         # Entraînement du modèle enseignant multimodal
+│-- logreg_l1.py                             # Régression logistique pénalisée
+│-- clean_log.py                             # Nettoyage des fichiers logs
+└-- README.md                                # Documentation du projet
 
 ## Exemples d’utilisation  
 -------------
