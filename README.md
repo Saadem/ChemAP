@@ -31,6 +31,18 @@ Tout d’abord, clonez le dépôt et accedez au répertoire du projet.
     git clone https://github.com/Saadem/ChemAP.git
     cd ChemAP
 
+## <span style="color:#2E86C1">📘 Aperçu général</span>
+
+## <span style="color:#2E86C1">⚙️ Installation et configuration</span>
+
+## <span style="color:#2E86C1">🧩 Arborescence et description des répertoires et fichiers</span>
+
+## <span style="color:#2E86C1">🧠 Entraînement du cadre ChemAP</span>
+
+## <span style="color:#2E86C1">🔬 Inférence</span>
+
+## <span style="color:#2E86C1">📚 Référence</span>
+
 
 ### Prérequis  
 
