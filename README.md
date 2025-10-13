@@ -50,7 +50,7 @@ L’entraînement et l’évaluation de ChemAP ont été testés avec les versio
 L’arborescence ci-dessous présente la structure générale du projet **ChemAP**, incluant les principaux répertoires et scripts :
 
 📦 ChemAP/  
- ┣ 📁 dataset/                                     # Jeux de données bruts et prétraités  
+ ┣ 📁 dataset/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Jeux de données bruts et prétraités  
  ┣ 📁 img/                                         # Images et schémas du cadre ChemAP  
  ┣ 📁 model/                                       # Modèles entraînés (Teacher, Student, ChemBERT)  
  ┣ 📁 src/                                         # Modules Python (prétraitement, modèles, fonctions de perte, etc.)  
