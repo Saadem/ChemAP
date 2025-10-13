@@ -15,7 +15,8 @@ Grâce à la distillation des connaissances, ChemAP associe la richesse des repr
 
 ### Vue d’ensemble du cadre ChemAP 
 
-![model1](img/pipelin.jpg)
+<!---![model1](img/pipelin.jpg)--->
+![model1](img/dispic.pdf)
 
 <!-- ### Architecture du modèle
 
