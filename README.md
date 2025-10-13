@@ -48,7 +48,7 @@ L’entraînement et l’évaluation de ChemAP ont été testés avec les versio
 
 ## Arborescence et description des repertoires et fichiers
 L’arborescence ci-dessous présente la structure générale du projet **ChemAP**, incluant les principaux répertoires et scripts :
-
+<!---
 📦 ChemAP/  
  ┣ 📁 dataset/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Jeux de données bruts et prétraités  
  ┣ 📁 img/                                         # Images et schémas du cadre ChemAP  
@@ -65,12 +65,12 @@ L’arborescence ci-dessous présente la structure générale du projet **ChemAP
  ┣ 📄 Teacher_train.py                             # Entraînement du modèle enseignant multimodal  
  ┣ 📄 logreg_l1.py                                 # Régression logistique pénalisée (baseline)  
  ┣ 📄 clean_log.py                                 # Nettoyage des fichiers logs  
- ┗ 📄 README.md                                    # Documentation du projet  
+ ┗ 📄 README.md                                    # Documentation du projet  --->
 
 
 
-| Élément | Description |
-|----------|-------------|
+| Arborescence des repertoires et fichiers | Description des repertoires et fichiers |
+|------------------------------------------|-----------------------------------------|
 | ┣ 📁 `dataset/` | Jeux de données bruts et prétraités |
 | ┣ 📁 `img/` | Images et schémas du cadre ChemAP |
 | ┣ 📁 `model/` | Modèles entraînés (Teacher, Student, ChemBERT) |
