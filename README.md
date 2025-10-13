@@ -68,6 +68,26 @@ L’arborescence ci-dessous présente la structure générale du projet **ChemAP
  ┗ 📄 README.md                                    # Documentation du projet  
 
 
+
+| Élément | Description |
+|----------|-------------|
+| 📁 `dataset/` | Jeux de données bruts et prétraités |
+| 📁 `img/` | Images et schémas du cadre ChemAP |
+| 📁 `model/` | Modèles entraînés (Teacher, Student, ChemBERT) |
+| 📁 `src/` | Modules Python (prétraitement, modèles, fonctions de perte, etc.) |
+| ┣ 📄 `Dataprocessing.py` | Préparation et transformation des jeux de données |
+| ┣ 📄 `loss_function.py` | Fonctions de perte (distillation, classification, régularisation) |
+| ┣ 📄 `models.py` | Architectures des modèles (enseignant, étudiants, modules auxiliaires) |
+| ┣ 📄 `utils.py` | Fonctions utilitaires (chargement, métriques, visualisations, etc.) |
+| 📄 `ChemAP.py` | Script principal d’orchestration du projet |
+| 📄 `data_preprocessing.py` | Prétraitement et normalisation des données |
+| 📄 `FP_predictor_train.py` | Entraînement du prédicteur ECFP4 |
+| 📄 `SMILES_predictor_train.py` | Entraînement du prédicteur SMILES |
+| 📄 `Teacher_train.py` | Entraînement du modèle enseignant multimodal |
+| 📄 `logreg_l1.py` | Régression logistique pénalisée (baseline comparative) |
+| 📄 `clean_log.py` | Nettoyage des fichiers logs pour éviter les erreurs d’encodage |
+| 📄 `README.md` | Documentation et instructions d’utilisation du projet |
+
 ## Exemples d’utilisation  
 -------------
 
