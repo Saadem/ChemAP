@@ -65,8 +65,6 @@ L’arborescence ci-dessous présente la structure générale du projet **ChemAP
  ┣ 📄 clean_log.py                                 # Nettoyage des fichiers logs  
  ┗ 📄 README.md                                    # Documentation du projet  --->
 
-
-
 | Arborescence des repertoires et fichiers | Description des repertoires et fichiers |
 |------------------------------------------|-----------------------------------------|
 | ┣ 📁 `dataset/` | Jeux de données bruts et prétraités |
@@ -85,6 +83,7 @@ L’arborescence ci-dessous présente la structure générale du projet **ChemAP
 | ┣ 📄 `logreg_l1.py` | Régression logistique pénalisée (baseline comparative) |
 | ┣ 📄 `clean_log.py` | Nettoyage des fichiers logs pour éviter les erreurs d’encodage |
 | ┣ 📄 `README.md` | Documentation et instructions d’utilisation du projet |
+
 
 ## Exemples d’utilisation  
 -------------
