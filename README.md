@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="img/banner.png" width="800"/>
-</p>
 
 # ChemAP (Chemical structure-based Drug Approval Prediction)
 
