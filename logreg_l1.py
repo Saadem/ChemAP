@@ -10,6 +10,9 @@ from sklearn.metrics import roc_curve, auc, precision_recall_curve, average_prec
 import matplotlib.pyplot as plt
 import joblib
 
+# Création du sous-répertoire
+SAVE_DIR = "./dataset/data_log"
+os.makedirs(SAVE_DIR, exist_ok=True)
 
 SEED = 42
 # Chemins # jeu de référence
@@ -122,6 +125,10 @@ def main():
     X_ref = df_ref.drop(columns=["Label"])
     # float pour descripteurs, int8 pour ECFP
     X_ref = enforce_dtypes(X_ref, [c for c in DESC_COLS if c in X_ref.columns])
+
+    # Pour df_ref (jeu de référence prétraité) 
+   df_ref_pretraite = pd.concat([y_ref, X_ref], axis=1)
+   df_ref_pretraite.to_csv(os.path.join(SAVE_DIR, "df_ref_pretraite.csv"), index=False)
 
     # Standardiser uniquement les descripteurs continus
     desc_to_scale = [c for c in DESC_COLS if c in X_ref.columns]
@@ -262,6 +269,10 @@ def main():
     if desc_to_scale:
         X_ext.loc[:, desc_to_scale] = X_ext[desc_to_scale].astype("float64")
         X_ext.loc[:, desc_to_scale] = scaler.transform(X_ext[desc_to_scale])
+
+    # --- Pour df_ext (jeu externe prétraité) ---
+    df_ext_pretraite = pd.concat([y_ext, X_ext], axis=1)
+    df_ext_pretraite.to_csv(os.path.join(SAVE_DIR, "df_ext_pretraite.csv"), index=False)
 
     # Restreindre aux variables sélectionnées
     #  (qui existent côté externe)
