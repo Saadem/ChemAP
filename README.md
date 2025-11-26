@@ -157,7 +157,7 @@ Pour prédire l’approbation d’une liste personnalisée de molécules :
 
 # Régression logistique pénalisée L1 (baseline)
 
-![Status](https://img.shields.io/badge/Status-Active-success-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue)
 ![Drug Prediction](https://img.shields.io/badge/Drug%20Approval-Prediction-lightcoral)
 ![Baseline](https://img.shields.io/badge/Baseline-L1%20Regularization-orange)
