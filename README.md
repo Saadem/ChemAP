@@ -169,6 +169,10 @@ lancer l'entrainement :
     python logreg_l1.py --data_path ./dataset/processed_data --split Drug --output_path ./model/logreg_l1
 
 
-## Référence  
+# Référence  
+
+![Reference](https://img.shields.io/badge/Reference-Zhang%20et%20al.%202024-lightgrey)
+![Source Code](https://img.shields.io/badge/Source-GitHub-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Les codes et scripts du cadre *ChemAP* présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
