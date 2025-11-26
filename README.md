@@ -39,7 +39,7 @@ L’entraînement et l’évaluation de ChemAP ont été testés avec les versio
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-orange)  
 ![RDKit](https://img.shields.io/badge/RDKit-2022.09.5-green)  
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-lightblue)  
-![Pandas](https://img.shields.io/badge/Pandas-2.3.1-yellowgreen)  
+![Pandas](https://img.shields.io/badge/Pandas-2.3.1-purple)  
 ![SciPy](https://img.shields.io/badge/SciPy-1.13.1-teal)  
 <!---![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)--->
