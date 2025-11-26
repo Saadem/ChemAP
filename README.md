@@ -157,10 +157,11 @@ Pour prédire l’approbation d’une liste personnalisée de molécules :
 
 # Régression logistique pénalisée L1 (baseline)
 
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Active-success-green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue)
 ![Drug Prediction](https://img.shields.io/badge/Drug%20Approval-Prediction-lightcoral)
 ![Baseline](https://img.shields.io/badge/Baseline-L1%20Regularization-orange)
+![Author](https://img.shields.io/badge/Author-Thierry_F_Saadem-violet)
 
 Le modèle de régression logistique L1 sert de baseline comparative pour la prédiction d’approbation des médicaments.  
 
