@@ -161,7 +161,7 @@ Pour prédire l’approbation d’une liste personnalisée de molécules :
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue)
 ![Drug Prediction](https://img.shields.io/badge/Drug%20Approval-Prediction-lightcoral)
 ![Baseline](https://img.shields.io/badge/Baseline-L1%20Regularization-orange)
-![Author](https://img.shields.io/badge/Author-Thierry_F_Saadem-violet)
+![Author](https://img.shields.io/badge/Author-Thierry_F_Saadem-purple)
 
 Le modèle de régression logistique L1 sert de baseline comparative pour la prédiction d’approbation des médicaments.  
 
@@ -172,9 +172,10 @@ lancer l'entrainement :
 
 # Référence  
 
-![Reference](https://img.shields.io/badge/Reference-Zhang%20et%20al.%202024-violet)
+![Reference](https://img.shields.io/badge/Reference-Zhang%20et%20al.%202024-green)
 ![Source Code](https://img.shields.io/badge/Source-GitHub-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
-![Author](https://img.shields.io/badge/Author-Developed%20by%20Me-green)
+![Inspired](https://img.shields.io/badge/Inspired-by-brown)
+![Author](https://img.shields.io/badge/Author-Developed%20by%20Me-purple)
 
 Les codes et scripts du cadre *ChemAP* présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
