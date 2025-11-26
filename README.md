@@ -155,6 +155,20 @@ Pour prédire l’approbation d’une liste personnalisée de molécules :
     python ChemAP.py --data_type custom --input_file example.csv --output example
 
 
+# Régression logistique pénalisée L1 (baseline)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-blue)
+![Drug Prediction](https://img.shields.io/badge/Drug%20Approval-Prediction-lightcoral)
+![Baseline](https://img.shields.io/badge/Baseline-L1%20Regularization-orange)
+
+Le modèle de régression logistique L1 sert de baseline comparative pour la prédiction d’approbation des médicaments.  
+
+lancer l'entrainement :
+
+    python logreg_l1.py --data_path ./dataset/processed_data --split Drug --output_path ./model/logreg_l1
+
+
 ## Référence  
 
 Les codes et scripts du cadre *ChemAP* présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
