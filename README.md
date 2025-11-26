@@ -164,7 +164,7 @@ Pour prédire l’approbation d’une liste personnalisée de molécules :
 ![Author](https://img.shields.io/badge/Author-Thierry_F_Saadem-purple)
 ![License](https://img.shields.io/badge/License-Ulaval-yellow)
 
-Le modèle de régression logistique L1 sert de baseline comparative pour la prédiction d’approbation des médicaments.  
+Le modèle de régression logistique pénalisée L1 sert de baseline comparative pour la prédiction d’approbation des médicaments.  
 
 lancer l'entrainement :
 
