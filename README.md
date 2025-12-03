@@ -176,7 +176,6 @@ lancer l'entrainement :
 ![Reference](https://img.shields.io/badge/Reference-ChemAP-green)
 ![Source Code](https://img.shields.io/badge/Source-GitHub-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
-![Inspired](https://img.shields.io/badge/Inspired-by-Zhang%20et%20al.-brown)
 ![Author](https://img.shields.io/badge/Author-Thierry-purple)
 
 
