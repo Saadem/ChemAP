@@ -176,7 +176,7 @@ lancer l'entrainement :
 ![Reference](https://img.shields.io/badge/Reference-ChemAP-green)
 ![Source Code](https://img.shields.io/badge/Source-GitHub-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
-![Author](https://img.shields.io/badge/Author-Thierry-F-Saadem-purple)
+![Author](https://img.shields.io/badge/Author-Thierry_F_Saadem-purple)
 
 
 Les codes et scripts du cadre *ChemAP* présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
