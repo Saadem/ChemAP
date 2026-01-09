@@ -179,4 +179,4 @@ lancer l'entrainement :
 ![Author](https://img.shields.io/badge/Author-Thierry_F_Saadem-purple)
 
 
-Les codes et scripts du cadre *ChemAP* présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Zhang, Y., Wang, Z., Liu, X., Wu, Q. et Chen, L. (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
+Les codes et scripts du cadre *ChemAP* présentés dans ce dépôt ont été inspirés et partiellement adaptés du travail original de Changyun Cho, Sangseon Lee, Dongmin Bang, Yinhua Piao & Sun Kim (2024), dont les sources sont disponibles [içi](https://github.com/ChangyunCho/ChemAP)    
